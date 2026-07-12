@@ -438,17 +438,25 @@ Negative prompt: redesigned logo, altered logo, fake MODU logo, misspelled MODU,
 ### 씬 3 영상 변환 프롬프트
 
 ```text
-3-second final UI formation and reveal shot based on the generated Scene 3 image.
+3-second final MODU UI activation and reveal shot based on the supplied Scene 3 image.
 
-Keep the complete smartphone centered, fully visible, upright, and straight-on. Preserve the official MODU logo, all Korean UI text, the weekly calendar, schedule card positions, icons, and bottom navigation exactly as shown in the source image. Do not rewrite, regenerate, rearrange, or redesign any interface element.
+Continue visually from the final state of Scene 2, where a concentrated cluster of neon cyan and pink digital particles remains in the center of the smartphone screen.
 
-Begin with a concentrated cluster of neon cyan and pink digital particles already inside the smartphone screen, continuing from Scene 2. The particles spread gently and settle into the existing interface without replacing the text.
+Keep the complete smartphone centered, fully visible, upright, and straight-on. Preserve the official MODU logo, all Korean UI text, weekly calendar, dates, schedule card positions, icons, profile avatars, and bottom navigation exactly as shown in the source image. Do not rewrite, regenerate, rearrange, replace, or redesign any interface element.
 
-First, the particles trace the edges of the weekly calendar and softly reinforce the neon cyan highlight on Saturday 9. Next, they flow downward and illuminate the four existing schedule card borders one by one. The checklist circles activate softly in order. The “회의” card receives a stronger neon blue and neon pink glow, and the small circular profile avatars remain stable.
+The complete MODU dashboard already exists in the source image and must remain structurally unchanged. At the beginning, keep the interface slightly dim while a compact cyan and pink particle cluster glows softly near the center of the screen.
 
-The bottom plus button gently pulses after the cards have activated. Keep all text readable and unchanged. Use subtle glow, light pulses, minimal smooth camera movement, and a clean premium app commercial finish.
+The particle cluster gently contracts and releases a soft neon pulse across the existing interface. Do not build the UI from an empty screen. Instead, use the particles only to activate and illuminate the existing UI.
 
-No new text, no logo redesign, no misspelled MODU, no Korean text distortion, no new schedule cards, no changed calendar dates, no rearranged interface, no camera rotation, no extreme zoom, no warped screen, no extra objects.
+First, a subtle neon light travels across the weekly calendar and reinforces the cyan highlight around Saturday 9. Next, the light moves downward and softly illuminates the existing schedule card borders one by one in order: “기상”, “아침 운동”, “회의”, and “아침 식사”.
+
+The checklist circles activate gently without changing their shapes or positions. The “회의” card receives the strongest neon blue and pink glow, while its Korean text and circular profile avatars remain perfectly stable.
+
+After the schedule cards activate, the bottom center plus button gently pulses once. End with the complete MODU dashboard clearly visible, stable, readable, and fully organized.
+
+Use subtle glow animation, smooth light movement, minimal camera motion, and a polished premium AI productivity app commercial finish.
+
+No new text, no interface reconstruction, no logo redesign, no misspelled MODU, no Korean text distortion, no changed dates, no new schedule cards, no rearranged layout, no moving avatars, no camera rotation, no extreme zoom, no warped phone, no warped screen, no extra objects.
 ```
 
 ---
