@@ -577,6 +577,15 @@ MODU_storyboard_shinuiryeong.pdf
 MODU_brand_ad_shinuiryeong_final_10s.mp4
 ```
 
+### GitHub 저장소 문서 - 제출물 개수에는 미포함
+
+``` text
+README.md
+MODU_storyboard_assets/
+```
+
+`README.md`에는 본 스토리보드의 기획·프롬프트·제작·검수 내용을 수록한다. `MODU_storyboard_assets/`는 README에서 씬별 대표 프레임을 표시하기 위한 이미지 폴더이며, 과제의 최종 제출 파일로 별도 표기하지 않는다.
+
 <figure class="sequence-figure">
 <img src="MODU_storyboard_assets/final_sequence_overview.jpg" alt="MODU 최종 영상 4씬 흐름" />
 <figcaption>최종 MP4에서 추출한 대표 프레임으로 정리한 문제 제시 - 전환 - 해결 - 브랜드 각인 흐름</figcaption>
